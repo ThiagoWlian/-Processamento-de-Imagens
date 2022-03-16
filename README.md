@@ -11,6 +11,8 @@
 
 **- Os arquivos R3.py e Bonus.py podem ser abertos no Visual Studio**
 
+**- É necessário a instalação do Python 3 e do OpenCV**
+
 **- Recomendo abrir a pasta inteira no Visual Studio por conta de alguns bugs que presenciei em minha máquina**
 
 **- Exemplo:**
