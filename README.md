@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/52060131/158294433-4e364e6b-844b-4909-956f-c60aaf755eab.png)
 
-**- Utilize git clone https://github.com/ThiagoWlian/NacIA.git no terminal para obter o projeto**
+**- Utilize "git clone https://github.com/ThiagoWlian/NacIA.git" no terminal para obter o projeto**
 
 # Link de vídeo demonstração
 **Jogo:** https://www.youtube.com/watch?v=1I2zrcE2gY8
