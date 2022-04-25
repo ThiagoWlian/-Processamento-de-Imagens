@@ -1,9 +1,5 @@
-# Primeira Nac de IA
-**Turma: SIS**
+# Prova de Processamento de Imagens
 
-**Ano: 4° Ano**
-
-**Integrantes: Thiago Cordeiro Wlian e Jesus Ruescas Junior**
 # Objetivo
 **Realizar o processamento de imagens por meio de um vídeo, calculando a área e o ângulo**
 # Como Utilizar
