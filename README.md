@@ -1,7 +1,7 @@
 # Prova de Processamento de Imagens
 
 # Objetivo
-**Realizar o processamento de imagens por meio de um vídeo, calculando a área e o ângulo**
+**Realizar o processamento de imagens de um vídeo, calculando a área e o ângulo**
 # Como Utilizar
 **- O arquivo R1_R2.ipynb deve ser aberto no Jupyter Notebook**
 
